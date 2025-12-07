@@ -22,18 +22,7 @@ Passionate about building practical and efficient applications, continuously lea
 
 ---
 
-## 🚀 Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **NASTAZID Application** | iOS educational app for students | Swift, Firebase |
-| **Academic Recommendation System** | Personalized course suggestions | Python, Web-based |
-| **Mazoum Site** | Responsive website | HTML, CSS, JS |
-| **Kindergarten Site** | Educational website | HTML, CSS, JS |
-
-> Check my [GitHub Repositories](https://github.com/hasnah98) for code and demos.
-
----
 
 ## 🌱 Currently Learning / Improving
 
