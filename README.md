@@ -17,7 +17,22 @@ Passionate about building practical and efficient applications, continuously lea
 </p></h5>
 
 --- 
+## 🎯 Focus Areas
 
+<p align="center">
+  
+- 💡 Strengthening core programming fundamentals
+  
+- 🛠️ Building stable applications across various languages  
+
+- 🏗️ Improving architectural thinking and system design  
+
+-  🌐 Developing full-stack solutions using modern practices  
+
+-  🗄️ Designing efficient data structures and scalable database models
+</p>
+
+---
 ## 💻 Technical Skills
 
 <p align="center">
@@ -73,22 +88,7 @@ Passionate about building practical and efficient applications, continuously lea
 
 
 
-## 🎯 Focus Areas
 
-<p align="center">
-  
-- 💡 Strengthening core programming fundamentals
-  
-- 🛠️ Building stable applications across various languages  
-
-- 🏗️ Improving architectural thinking and system design  
-
--  🌐 Developing full-stack solutions using modern practices  
-
--  🗄️ Designing efficient data structures and scalable database models
-</p>
-
----
 
 ## 🔍 Professional Interests
 
