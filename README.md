@@ -21,15 +21,15 @@ Passionate about building practical and efficient applications, continuously lea
 
 <p align="center">
   
-- 💡 Strengthening core programming fundamentals
+💡 Strengthening core programming fundamentals
   
-- 🛠️ Building stable applications across various languages  
+🛠️ Building stable applications across various languages  
 
-- 🏗️ Improving architectural thinking and system design  
+🏗️ Improving architectural thinking and system design  
 
--  🌐 Developing full-stack solutions using modern practices  
+🌐 Developing full-stack solutions using modern practices  
 
--  🗄️ Designing efficient data structures and scalable database models
+🗄️ Designing efficient data structures and scalable database models
 </p>
 
 ---
