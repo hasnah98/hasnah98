@@ -94,13 +94,13 @@ Passionate about building practical and efficient applications, continuously lea
 
 <p align="center">
   
-- 🏛️ Software architecture & clean code
+🏛️ Software architecture & clean code
   
-- 📱 Mobile and web development
+📱 Mobile and web development
   
-- ⚙️ Automation and practical tooling
+⚙️ Automation and practical tooling
   
-- 🚀 Performance optimization and debugging
+🚀 Performance optimization and debugging
 </p>
 
 
